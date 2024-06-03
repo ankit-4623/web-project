@@ -145,6 +145,16 @@ ul li a:hover {
     font-size: 60px;
 
 }
+.log
+{
+    width: 250px;
+    height: 25px;
+    padding-top: 40px;
+    color: rgb(230, 223, 223);
+    font-size: medium;
+    font-family: Arial;
+    size: 10px;
+}
 .form{
     width: 250px; 
     height: 380px;
@@ -232,14 +242,14 @@ ul li a:hover {
     text-align: center;
 }
 .social{
-    margin-top: 30px;
+    margin-top: 10px;
     display: flex;
   }
   .social div{
-    background: rgb(0, 64, 255);
+    background: rgb(0, 251, 255);
     width: 150px;
-    border-radius: 3px;
-    padding: 5px 10px 10px 5px;
+    border-radius: 6px;
+    padding: 5px;
     background-color: rgba(255,255,255,0.27);
     color: #eaf0fb;
     text-align: center;
@@ -248,7 +258,7 @@ ul li a:hover {
     background-color: rgba(255,255,255,0.47);
   }
   .social .fb{
-    margin-left: 25px;
+    margin-left: 20px;
   }
   .social i{
     margin-right: 4px;
